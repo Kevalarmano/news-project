@@ -1,2 +1,1 @@
-git@github.com:Kevalarmano/news-project.git
-
+https://github.com/Kevalarmano/news-project.git
